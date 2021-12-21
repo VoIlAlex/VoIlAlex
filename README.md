@@ -1,6 +1,6 @@
 # Ilya | VoIlAlex
 
-Hi there, I'm Ilya (a.k.a. VoIlAlex). I'm Python developer with 2+ years of experience.
+Hi there, I'm Ilya (a.k.a. VoIlAlex). I'm Python developer with 2+ years of experience. 
 
 ## Technologies
 
@@ -18,5 +18,5 @@ Hi there, I'm Ilya (a.k.a. VoIlAlex). I'm Python developer with 2+ years of expe
 
 ## Contacts
 
-Email: ilya.vouk@gmail.com
-LinkedIn: www.linkedin.com/in/voilalex
+- Email: ilya.vouk@gmail.com
+- LinkedIn: www.linkedin.com/in/voilalex
