@@ -1,6 +1,6 @@
 # Ilya | VoIlAlex
 
-Hi there, I'm Ilya (a.k.a. VoIlAlex). I'm Python developer with 2+ years of experience. 
+Hi there, I'm Ilya (a.k.a. VoIlAlex). Python developer. 
 
 ## Technologies
 
