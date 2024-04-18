@@ -4,14 +4,14 @@ Hi there, I'm Ilya (a.k.a. VoIlAlex). Python developer.
 
 ## Technologies
 
-* Web frameworks: Django, Django-Rest-Framework, Flask, FastAPI.
+* Web frameworks: Django, Django-Rest-Framework, FastAPI, Flask.
 * ORMS: Django ORM, SQLAlchemy.
-* Databases: MySQL, MongoDB, PostgreSQL, redis.
+* Databases: PostgreSQL, MongoDB, redis.
 * Testing: pytest, unittest.
 * Background tasks: celery, celery-beat, cron.
-* OS: Windows, Linux.
-* Servers: NginX, systemd, Docker, Docker-Compose, Kubernetes.
-* CI/CD: Travis CI, Github Actions, Docker Hub, Codecov.
+* OS: Windows, Linux, MacOS.
+* Servers: NginX, systemd, Docker, Docker-Compose.
+* CI/CD: Github Actions, Docker Hub, Codecov.
 * Data analysis: NumPy, Pandas, matplotlib, PyTorch, scikit-learn, scipy.
 * Authentication: JWT, OAuth2.
 * Bots: telegram.
